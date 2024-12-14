@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macflight38
 - 👀 I’m interested in IT LINUX
-- 🌱 I’m currently learning N8N MAKE ELECTRON.JS PYTHON
+- 🌱 I’m currently learning N8N MAKE JAVASCRIPT ELECTRON.JS PYTHON
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

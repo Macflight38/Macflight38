@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macflight38
-- 👀 I’m interested in IT LINUX
-- 🌱 I’m currently learning N8N MAKE JAVASCRIPT 
+- 👀 I’m interested in AI AUTOMATION
+- 🌱 I’m currently N8N PROFIL+
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

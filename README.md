@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macflight38
-- 👀 I’m interested in AI AUTOMATION
-- 🌱 I’m currently N8N PROFIL+
+- 👀 I’m interested 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
